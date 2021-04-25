@@ -1,5 +1,3 @@
-### Hi, I'm Marko, also known as Revy online :)
-
 Student at School of Electrical and Computer Engineering of Applied Studies in Belgrade, Serbia! 👨‍🎓
 
 I'm interested in software development, robotics, animation and CGI! I am currently learning a few different programming languages, and I'm very excited to learn more!
