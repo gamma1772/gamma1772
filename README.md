@@ -1,1 +1,1 @@
-Junior Software Developer 👨‍💻
+<center>Junior Software Developer 👨‍💻</center>
