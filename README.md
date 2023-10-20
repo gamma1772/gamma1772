@@ -1,1 +1,3 @@
-<center>Junior Software Developer 👨‍💻</center>
+<div align="center">
+  Junior Software Developer 👨‍💻
+</div>
