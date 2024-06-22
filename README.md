@@ -1,3 +1,3 @@
 <div align="center">
-  Junior Software Engineer 👨‍💻
+  Software Engineer 👨‍💻
 </div>
